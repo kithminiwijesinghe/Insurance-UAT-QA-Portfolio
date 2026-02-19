@@ -4,10 +4,10 @@
 This project demonstrates a full User Acceptance Testing (UAT) simulation for an Online Insurance Policy Management System. It is designed to simulate real-world insurance workflows for customers and admins while showcasing advanced QA practices, test planning, and risk-based testing approaches.
 
 ## Project Overview
-** The system allows:**
+**The system allows:**
 - Customers to register/login, browse insurance plans, purchase policies, view dashboards, and submit claims.
 •	Admins to approve or reject claims and monitor all policies.
-** This simulation addresses real-world problems in insurance operations:**
+**This simulation addresses real-world problems in insurance operations:**
 •	Eliminates manual tracking of policies and claims.
 •	Reduces delays and errors in claim approvals.
 •	Ensures data accuracy and transparency in customer transactions.
@@ -24,14 +24,14 @@ This project demonstrates a full User Acceptance Testing (UAT) simulation for an
 •	Actively learning automation tools (Playwright, Selenium) to complement manual testing.
 
 ## Key Highlights
-•** 	Real-world problem-solving: ** This project demonstrates how a QA engineer can anticipate user issues and risks before they impact the business.
-• **	QA mindset: ** Focused on strategic thinking, user flows, and impact analysis — not just executing test scripts.
+•**Real-world problem-solving:** This project demonstrates how a QA engineer can anticipate user issues and risks before they impact the business.
+• **QA mindset:** Focused on strategic thinking, user flows, and impact analysis — not just executing test scripts.
 •	**Continuous learning & adaptability:** Incorporates new tools, automation practices, and AI-assisted testing approaches.
 •	**Portfolio-ready:** Organized folder structure with Business Requirements, User Stories, Test Cases, RTM, Defect Reports, UAT Execution, Test Summary, and Automation examples.
 
 ## Tools & Practices
-•**	Manual Testing:** Functional, Regression, Exploratory, Negative, Boundary, Security, UX
-•**	Automation (Learning/Implementation in Progress):** Selenium, Playwright, RestAssured
+•**Manual Testing:** Functional, Regression, Exploratory, Negative, Boundary, Security, UX
+•**Automation (Learning/Implementation in Progress):** Selenium, Playwright, RestAssured
 •	**Test Management:** Jira (simulated), RTM, Risk-Based Testing
-• **	Methodologies:** Agile/Scrum, UAT, SDLC/STLC
+• **Methodologies:** Agile/Scrum, UAT, SDLC/STLC
 •	**Languages & Frameworks:** still not define . Think to develop using React with Node.js , python (Selenium / Playwright)
